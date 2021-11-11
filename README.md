@@ -17,7 +17,8 @@ For example, if you decide you want to build the habit of practising the piano, 
 **`habit piano`**
 
 ```
-Good luck with your new habit 'piano'! Don't forget to do it again tomorrow.
+Good luck with your new habit 'piano'! Don't forget to do it again
+tomorrow.
 ```
 
 As the days go by, you might record each daily practice like this:
@@ -25,7 +26,8 @@ As the days go by, you might record each daily practice like this:
 **`habit piano`**
 
 ```
-Nice work: you've done the habit 'piano' for 18 days in a row now. Keep it up!
+Nice work: you've done the habit 'piano' for 18 days in a row now.
+Keep it up!
 ```
 
 If you happen to miss a couple of days, that's all right:
@@ -33,7 +35,8 @@ If you happen to miss a couple of days, that's all right:
 **`habit piano`**
 
 ```
-You last did the habit 'piano' 3 days ago, so you're starting a new streak today. Good luck!
+You last did the habit 'piano' 3 days ago, so you're starting a new
+streak today. Good luck!
 ```
 
 If you just want to check how you're doing, you could run:
@@ -47,7 +50,8 @@ You're currently on a 16-day streak for 'piano'. Stick to it!
 Maybe the news won't be quite so good:
 
 ```
-It's been 4 days since you did 'piano'. It's okay, life happens. Get back on that horse today!
+It's been 4 days since you did 'piano'. It's okay, life happens. Get
+back on that horse today!
 ```
 
 ## Problems to solve
